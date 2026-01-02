@@ -22,3 +22,14 @@ manuales en flujos automáticos confiables.
 - Código pensado para escalar y mantenerse
 
 👉 Si te interesa **cómo pienso y resuelvo problemas**, este sitio es para vos.
+---
+
+## 📊 Live site
+
+<ClientOnly>
+  <LiveStats />
+</ClientOnly>
+
+---
+
+👉 Explorá mis [proyectos](/projects/) o mirá cómo pienso en la sección de learning.
