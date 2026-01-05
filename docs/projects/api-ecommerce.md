@@ -1,15 +1,20 @@
 # API REST para E-commerce
 
 ## 🧩 Problema
-Se necesitaba un backend escalable para gestionar:
+
+El objetivo del proyecto fue desarrollar un backend escalable para gestionar:
+
 - usuarios
 - productos
 - órdenes
-con autenticación segura.
+
+incluyendo un sistema de autenticación seguro y una estructura clara
+para futuros crecimientos.
 
 ---
 
 ## 🛠️ Stack
+
 - Node.js
 - Express
 - MongoDB
@@ -18,27 +23,33 @@ con autenticación segura.
 ---
 
 ## 🏗️ Arquitectura
-La API se diseñó siguiendo principios REST, separando:
+
+La API se diseñó siguiendo principios REST, separando responsabilidades en:
+
 - rutas
 - controladores
 - servicios
 - modelos
 
-Se priorizó:
-- claridad del código
-- escalabilidad
-- facilidad de mantenimiento
+La estructura fue pensada para:
+- mantener el código legible
+- facilitar la escalabilidad
+- permitir cambios sin afectar todo el sistema
 
 ---
 
 ## 🔐 Seguridad
+
 - Autenticación basada en JWT
-- Middleware para rutas protegidas
-- Validación de datos de entrada
+- Middleware para proteger rutas sensibles
+- Validación de datos antes de procesarlos
 
 ---
 
 ## 📚 Aprendizajes
-- Diseño de APIs limpias
-- Manejo de autenticación
-- Organización de un backend real
+
+Este proyecto me permitió:
+
+- entender el diseño completo de una API backend
+- implementar autenticación de forma consciente
+- organizar un proyecto pensando en mantenimiento a largo plazo
