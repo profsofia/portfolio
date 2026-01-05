@@ -1,35 +1,56 @@
----
-layout: home
----
-
 # Sofía Schenone
 
-## Backend Developer · Automation · Software Development
+## Desarrollo software con foco en lógica, claridad y aprendizaje constante
 
-Desarrollo soluciones de backend enfocadas en eficiencia, automatización  
-e integración de sistemas.
+Soy Técnica Universitaria en Desarrollo de Software y trabajo principalmente
+en backend y automatización.
 
-Trabajo con **Node.js, Python, SQL y C**, y disfruto convertir procesos
-manuales en flujos automáticos confiables.
-
----
-
-### 🚀 Qué vas a encontrar acá
-
-- Proyectos reales explicados técnicamente
-- Decisiones de arquitectura y trade-offs
-- Aprendizajes en programación y algoritmos
-- Código pensado para escalar y mantenerse
-
-👉 Si te interesa **cómo pienso y resuelvo problemas**, este sitio es para vos.
----
-
-## 📊 Live site
-
-<ClientOnly>
-  <LiveStats />
-</ClientOnly>
+Me interesa entender los problemas antes de escribir código, y construir
+soluciones simples, mantenibles y bien pensadas.  
+Este sitio no es un catálogo de tecnologías: es una forma de mostrar
+**cómo razono y cómo aprendo**.
 
 ---
 
-👉 Explorá mis [proyectos](/projects/) o mirá cómo pienso en la sección de learning.
+## 🧠 Cómo pienso cuando programo
+
+Gran parte de mi formación está enfocada en **lógica y algoritmos**.
+Antes de preocuparme por la interfaz, busco que el flujo sea claro
+y que el código tenga sentido por sí mismo.
+
+Por ejemplo, este fragmento pertenece a un juego de preguntas y respuestas
+desarrollado en **C**, ejecutado en consola.
+
+```c
+int score = 0;
+
+for (int i = 0; i < total_questions; i++) {
+    printf("%s\n", questions[i].question);
+    scanf("%d", &answer);
+
+    if (answer == questions[i].correct) {
+        score++;
+    }
+}
+
+printf("Puntaje final: %d\n", score);
+```
+Este ejemplo no busca mostrar una solución compleja,
+sino la forma en que encaro los problemas:
+pensar el flujo, controlar el estado y avanzar paso a paso.
+
+Es la misma lógica que aplico cuando trabajo con APIs,
+automatizaciones o sistemas más grandes.
+Lo que cambia es la herramienta, no la forma de pensar.
+
+---
+
+## 🚀 Para seguir desde acá
+
+Si querés profundizar, podés ver:
+
+- 📁 [Proyectos](/projects/) donde explico soluciones reales
+- 🧠 Decisiones técnicas y trade-offs
+- 📚 Lo que voy aprendiendo mientras estudio y trabajo
+
+Gracias por tomarte el tiempo de leer.

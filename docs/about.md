@@ -11,3 +11,14 @@ Tengo experiencia construyendo:
 
 Me interesa el código claro, mantenible y orientado a resolver problemas reales.
 Actualmente profundizo en **algoritmos, estructuras de datos y C**.
+
+---
+
+## 🧩 Sobre este sitio
+
+<ClientOnly>
+  <LiveStats />
+</ClientOnly>
+
+Este portfolio está pensado como un espacio vivo:
+lo actualizo mientras aprendo, estudio y trabajo.
