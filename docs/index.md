@@ -52,5 +52,21 @@ Si querés profundizar, podés ver:
 - 📁 [Proyectos](/projects/) donde explico soluciones reales
 - 🧠 Decisiones técnicas y trade-offs
 - 📚 Lo que voy aprendiendo mientras estudio y trabajo
+---
+
+## 🌐 Sitios Web y proyectos de cliente
+
+### 🧑‍⚖️ Juridico Gonzalez
+- Sitio institucional para estudio jurídico con presentación de servicios
+👉 [Ver proyecto](/projects/juridico-gonzalez)
+
+### 🛡️ GRM Seguridad
+- Web corporativa para empresa de seguridad
+👉 [Ver proyecto](/projects/grm-seguridad)
+
+### 🏗️ DYS Constructora
+- Sitio institucional para constructora
+👉 [Ver proyecto](/projects/dys-constructora)
+
 
 Gracias por tomarte el tiempo de leer.
