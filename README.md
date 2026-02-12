@@ -65,6 +65,7 @@ Cada proyecto incluye:
 ```bash
 npm install
 npm run docs:dev
+npm run docs:build
 ```
 
 El sitio estará disponible en:
