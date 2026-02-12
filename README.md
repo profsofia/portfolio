@@ -95,7 +95,7 @@ Desarrolladora de Software
 * Angular · Node.js · APIs · Automatización
 * Foco en lógica, estructura y resolución de problemas
 
-🔗 Portfolio: [https://sofiaschenone.tech](https://sofiaschenone.tech)
+🔗 Portfolio: [https://sofiadevsoftware.com/](https://sofiadevsoftware.com/)
 🔗 LinkedIn: [https://www.linkedin.com/in/sofiaschenone/](https://www.linkedin.com/in/sofiaschenone/)
 
 ---
